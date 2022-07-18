@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/Cassandra/.gradle/caches/transforms-3/4e77c19380906eb0d1a83f45fc38f48d/transformed/viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/b696c676130daf347f88e4d67a435ab4/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/6c778fb18af9c738dfd9d7e6b67bc57a/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/1a6bfe7af6e4ac6f5f74eda47d177e46/transformed/fragment-ktx-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/95c2f30f6ecc61b4127b88828a48494f/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/a85b8f6f6f829918ec7247a8bc7fedf2/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/b29860ec764feeeaccd2ff9e39897be7/transformed/navigation-ui-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/33e0fa523f01202564cec150aceca24c/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/32e5b725898a99ad4f21ce7b4df27b38/transformed/activity-ktx-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/6b8c2a3354b06e832abc1901a05c4469/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/5aedebf2972261084351e19620050d3d/transformed/navigation-common-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/87ae23e645a5ec0c5e9cc5740616113d/transformed/lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/Cassandra/.gradle/caches/transforms-3/58f2677cf6d4318cc807c113b3a59f03/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Cassandra/.gradle/caches/transforms-3/809fd491b955f9f23a05f7408343643c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/Cassandra/.gradle/caches/transforms-3/4da92ffeb263b74fbd4d170f0285b0e2/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/d5db4f953613bd1750afba5226141539/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/5998e31de34849cd19f7dd703267d630/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/fcdc072b10255e30b52c921e2fd0a378/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/4f3eea0fac1d5d81d72c0771516c545d/transformed/fragment-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/9eeffc34bde363d8982640bba1f9cad7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/24ece080a7bd933328c4eea07a91566d/transformed/activity-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/3c613da25332c362a3ce7d4110fcfd25/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/c47f9adee9afc59d2009f2e49b95902e/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/50f2854e27d9be502792edf4a3be1e62/transformed/lifecycle-livedata-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/af85f123b7eea6a53659929aac2b5fe3/transformed/lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/8b1c613709d48b39abdee737b863c3ea/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/511f3306c77a8191eb5875d11033b261/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/Cassandra/.gradle/caches/transforms-3/4a9aef216ee47f3e6bb79d83a65ad201/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/072b8dfe3c14e04446c654d089cea330/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/f1a99282b365266bca689d211f0cbd13/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/340de8100ef66df4622000805f57e091/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/5a8718b090a24610c353434d0c2d97d5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/989a44378e1256a91aa8f60dba380bde/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/ef9557aeeaf72e48e9fe8dac46376353/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/66100bb33642975c55e50c9aff6b563e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/c28d364505756b864b3040bf4b0145fe/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/Cassandra/.gradle/caches/transforms-3/e740a1bd4bfcf52cddd5979b7e438d42/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/b4b6cf724b8ac1428691823f2f2170f9/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/b8978db68e5afa4d30cd1fb2b5e753ce/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/0b267d04b79722a28bd4dcda7b5cd4f6/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/df406036901db94788e8ab2be9dd319e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/515789c539ce5ee863a31e8d5eae1ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/1a7e935031178b91fc86b1cd36cdf119/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/f31da51143cf4ddaf3f7fbc35587875f/transformed/lifecycle-livedata-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/964e17685a2823c91517274c55e3e438/transformed/lifecycle-livedata-core-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/c54cad1d4256df396cebcf3267c079f5/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/8f2eafaa1b8db2736b8523e0b53a2017/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Cassandra/.gradle/caches/transforms-3/a73f0737abde4a84645eeadccbbbc3eb/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/2d5133cfb4dfcbee503ba470212c8e41/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/927224926fe1c5a0edc7226591adb7d2/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/9a508155b723d0fed317dd93624e4958/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/023fccea3b20d8a02a5cba274eba5d37/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/65edc3bbb66022ebb317d9803f4e3358/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/3885a2825be0a0c8648fb2ebb7d8286a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/28f2182eafe089b1c215223454e9c780/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/Cassandra/.gradle/caches/transforms-3/58f2677cf6d4318cc807c113b3a59f03/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/Cassandra/.gradle/caches/transforms-3/58f2677cf6d4318cc807c113b3a59f03/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Cassandra/.gradle/caches/transforms-3/809fd491b955f9f23a05f7408343643c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Cassandra/.gradle/caches/transforms-3/809fd491b955f9f23a05f7408343643c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/b4b6cf724b8ac1428691823f2f2170f9/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/b4b6cf724b8ac1428691823f2f2170f9/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/df406036901db94788e8ab2be9dd319e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/df406036901db94788e8ab2be9dd319e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/515789c539ce5ee863a31e8d5eae1ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/515789c539ce5ee863a31e8d5eae1ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/b4b6cf724b8ac1428691823f2f2170f9/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:14:9-49
+	android:dataExtractionRules
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:8:9-65
+activity#com.example.contactlist.MainActivity
+ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/Cassandra/.gradle/caches/transforms-3/4e77c19380906eb0d1a83f45fc38f48d/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/Cassandra/.gradle/caches/transforms-3/4e77c19380906eb0d1a83f45fc38f48d/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/b696c676130daf347f88e4d67a435ab4/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/b696c676130daf347f88e4d67a435ab4/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/6c778fb18af9c738dfd9d7e6b67bc57a/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/6c778fb18af9c738dfd9d7e6b67bc57a/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/1a6bfe7af6e4ac6f5f74eda47d177e46/transformed/fragment-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/1a6bfe7af6e4ac6f5f74eda47d177e46/transformed/fragment-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/95c2f30f6ecc61b4127b88828a48494f/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/95c2f30f6ecc61b4127b88828a48494f/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/a85b8f6f6f829918ec7247a8bc7fedf2/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/a85b8f6f6f829918ec7247a8bc7fedf2/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/b29860ec764feeeaccd2ff9e39897be7/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/b29860ec764feeeaccd2ff9e39897be7/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/33e0fa523f01202564cec150aceca24c/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/33e0fa523f01202564cec150aceca24c/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/32e5b725898a99ad4f21ce7b4df27b38/transformed/activity-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/32e5b725898a99ad4f21ce7b4df27b38/transformed/activity-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/6b8c2a3354b06e832abc1901a05c4469/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/6b8c2a3354b06e832abc1901a05c4469/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/5aedebf2972261084351e19620050d3d/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/5aedebf2972261084351e19620050d3d/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/87ae23e645a5ec0c5e9cc5740616113d/transformed/lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/87ae23e645a5ec0c5e9cc5740616113d/transformed/lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/Cassandra/.gradle/caches/transforms-3/58f2677cf6d4318cc807c113b3a59f03/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/Cassandra/.gradle/caches/transforms-3/58f2677cf6d4318cc807c113b3a59f03/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Cassandra/.gradle/caches/transforms-3/809fd491b955f9f23a05f7408343643c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Cassandra/.gradle/caches/transforms-3/809fd491b955f9f23a05f7408343643c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/Cassandra/.gradle/caches/transforms-3/4da92ffeb263b74fbd4d170f0285b0e2/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/Cassandra/.gradle/caches/transforms-3/4da92ffeb263b74fbd4d170f0285b0e2/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/d5db4f953613bd1750afba5226141539/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/d5db4f953613bd1750afba5226141539/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/5998e31de34849cd19f7dd703267d630/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/5998e31de34849cd19f7dd703267d630/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/fcdc072b10255e30b52c921e2fd0a378/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/fcdc072b10255e30b52c921e2fd0a378/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/4f3eea0fac1d5d81d72c0771516c545d/transformed/fragment-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/4f3eea0fac1d5d81d72c0771516c545d/transformed/fragment-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/9eeffc34bde363d8982640bba1f9cad7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/9eeffc34bde363d8982640bba1f9cad7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/24ece080a7bd933328c4eea07a91566d/transformed/activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /Users/Cassandra/.gradle/caches/transforms-3/24ece080a7bd933328c4eea07a91566d/transformed/activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/3c613da25332c362a3ce7d4110fcfd25/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/3c613da25332c362a3ce7d4110fcfd25/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/c47f9adee9afc59d2009f2e49b95902e/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/c47f9adee9afc59d2009f2e49b95902e/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/50f2854e27d9be502792edf4a3be1e62/transformed/lifecycle-livedata-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/50f2854e27d9be502792edf4a3be1e62/transformed/lifecycle-livedata-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/af85f123b7eea6a53659929aac2b5fe3/transformed/lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/af85f123b7eea6a53659929aac2b5fe3/transformed/lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/8b1c613709d48b39abdee737b863c3ea/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/8b1c613709d48b39abdee737b863c3ea/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/511f3306c77a8191eb5875d11033b261/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/511f3306c77a8191eb5875d11033b261/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/Cassandra/.gradle/caches/transforms-3/4a9aef216ee47f3e6bb79d83a65ad201/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/Cassandra/.gradle/caches/transforms-3/4a9aef216ee47f3e6bb79d83a65ad201/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/072b8dfe3c14e04446c654d089cea330/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/072b8dfe3c14e04446c654d089cea330/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/f1a99282b365266bca689d211f0cbd13/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/f1a99282b365266bca689d211f0cbd13/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/340de8100ef66df4622000805f57e091/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/340de8100ef66df4622000805f57e091/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/5a8718b090a24610c353434d0c2d97d5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/5a8718b090a24610c353434d0c2d97d5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/989a44378e1256a91aa8f60dba380bde/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/989a44378e1256a91aa8f60dba380bde/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/ef9557aeeaf72e48e9fe8dac46376353/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/ef9557aeeaf72e48e9fe8dac46376353/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/66100bb33642975c55e50c9aff6b563e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/66100bb33642975c55e50c9aff6b563e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/c28d364505756b864b3040bf4b0145fe/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/c28d364505756b864b3040bf4b0145fe/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/Cassandra/.gradle/caches/transforms-3/e740a1bd4bfcf52cddd5979b7e438d42/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/Cassandra/.gradle/caches/transforms-3/e740a1bd4bfcf52cddd5979b7e438d42/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/b4b6cf724b8ac1428691823f2f2170f9/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/Cassandra/.gradle/caches/transforms-3/b4b6cf724b8ac1428691823f2f2170f9/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/b8978db68e5afa4d30cd1fb2b5e753ce/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/b8978db68e5afa4d30cd1fb2b5e753ce/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/0b267d04b79722a28bd4dcda7b5cd4f6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/0b267d04b79722a28bd4dcda7b5cd4f6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/df406036901db94788e8ab2be9dd319e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Cassandra/.gradle/caches/transforms-3/df406036901db94788e8ab2be9dd319e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/515789c539ce5ee863a31e8d5eae1ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/515789c539ce5ee863a31e8d5eae1ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/1a7e935031178b91fc86b1cd36cdf119/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/1a7e935031178b91fc86b1cd36cdf119/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/f31da51143cf4ddaf3f7fbc35587875f/transformed/lifecycle-livedata-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/f31da51143cf4ddaf3f7fbc35587875f/transformed/lifecycle-livedata-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/964e17685a2823c91517274c55e3e438/transformed/lifecycle-livedata-core-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/964e17685a2823c91517274c55e3e438/transformed/lifecycle-livedata-core-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/c54cad1d4256df396cebcf3267c079f5/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/c54cad1d4256df396cebcf3267c079f5/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/8f2eafaa1b8db2736b8523e0b53a2017/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/Cassandra/.gradle/caches/transforms-3/8f2eafaa1b8db2736b8523e0b53a2017/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Cassandra/.gradle/caches/transforms-3/a73f0737abde4a84645eeadccbbbc3eb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Cassandra/.gradle/caches/transforms-3/a73f0737abde4a84645eeadccbbbc3eb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/2d5133cfb4dfcbee503ba470212c8e41/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/2d5133cfb4dfcbee503ba470212c8e41/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/927224926fe1c5a0edc7226591adb7d2/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/Cassandra/.gradle/caches/transforms-3/927224926fe1c5a0edc7226591adb7d2/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/9a508155b723d0fed317dd93624e4958/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/9a508155b723d0fed317dd93624e4958/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/023fccea3b20d8a02a5cba274eba5d37/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/023fccea3b20d8a02a5cba274eba5d37/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/65edc3bbb66022ebb317d9803f4e3358/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/65edc3bbb66022ebb317d9803f4e3358/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/3885a2825be0a0c8648fb2ebb7d8286a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/3885a2825be0a0c8648fb2ebb7d8286a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/28f2182eafe089b1c215223454e9c780/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/Cassandra/.gradle/caches/transforms-3/28f2182eafe089b1c215223454e9c780/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cassandra/Desktop/contactList/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/2130b7a9da3c821dc3360704f42e900b/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/515789c539ce5ee863a31e8d5eae1ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/515789c539ce5ee863a31e8d5eae1ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/Cassandra/.gradle/caches/transforms-3/46bbd51f9e954e471eaa5ac7f6af3415/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/Cassandra/.gradle/caches/transforms-3/796c44513b5ddd931139d4c21f7e7cde/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
